@@ -1,2 +1,2 @@
 # GCash.com-Mynt.xyz
-Fake Repository. Testing Something.
+Repository with Fake Creds. Testing Something.
